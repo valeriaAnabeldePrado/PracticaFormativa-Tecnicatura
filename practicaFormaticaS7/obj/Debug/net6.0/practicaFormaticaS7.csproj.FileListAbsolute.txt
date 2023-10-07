@@ -1,0 +1,14 @@
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\bin\Debug\net6.0\practicaFormaticaS7.exe
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\bin\Debug\net6.0\practicaFormaticaS7.deps.json
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\bin\Debug\net6.0\practicaFormaticaS7.runtimeconfig.json
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\bin\Debug\net6.0\practicaFormaticaS7.dll
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\bin\Debug\net6.0\practicaFormaticaS7.pdb
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\practicaFormaticaS7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\practicaFormaticaS7.AssemblyInfoInputs.cache
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\practicaFormaticaS7.AssemblyInfo.cs
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\practicaFormaticaS7.csproj.CoreCompileInputs.cache
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\practicaFormaticaS7.dll
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\refint\practicaFormaticaS7.dll
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\practicaFormaticaS7.pdb
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\practicaFormaticaS7.genruntimeconfig.cache
+C:\Users\Anabel\source\repos\practicaFormaticaS7\practicaFormaticaS7\obj\Debug\net6.0\ref\practicaFormaticaS7.dll
